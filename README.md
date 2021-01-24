@@ -48,15 +48,15 @@ Here are some final considerations:
 
 ## Hints and Considerations
 
-* These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
+* These was very challenging tasks, So being patient with yourself as you trudge through these problems very important. They took time and there was no shame in fumbling along the way. Data visualization was equal parts exploration, equal parts resolution.
 
-* You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
+* I had been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the project.
 
-* Don't get bogged down in small details. Always focus on the big picture. If you can't figure out how to get a label to show up correctly, come back to it. Focus on getting the core skeleton of your notebook complete. You can always revisit old problems.
+* In this priject I didn't get bogged down in small details. Always focus on the big picture. If you can't figure out how to get a label to show up correctly, come back to it. Focus on getting the core skeleton of your notebook complete. You can always revisit old problems.
 
-* While you are trying to complete this assignment, feel encouraged to constantly refer to Stack Overflow and the Pandas documentation. These are needed tools in every data analyst's tool belt.
+* While I was trying to complete this project, I felt encouraged to constantly refer to Stack Overflow and the Pandas documentation. These are needed tools in every data analyst's tool belt.
 
-* Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks, and trying to  answering questions like:
+* There was many ways to approach a data problem. The key was to break up your task into micro tasks, and trying to answering questions like:
 
   * How does my DataFrame need to be structured for me to have the right _x_-axis and _y_-axis?
 
@@ -66,10 +66,8 @@ Here are some final considerations:
 
   * Where would the labels for that scatter plot come from?
 
-  Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
+  I learned from the project that don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
 
 * I get help when I need it! There is never any shame in asking. But, as always, ask a _specific_ question. You'll never get a great answer to "I'm lost."
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+## enjoy
