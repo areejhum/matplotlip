@@ -1,10 +1,10 @@
-# Matplotlib Homework - The Power of Plots
+ The Power of Plots
 
 ## Background
 
 What good is data without a good plot to tell the story?
 
-So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
+So, the project using Python Matplotlib and apply it to a real-world situation and dataset:
 
 ![Laboratory](Images/Laboratory.jpg)
 
@@ -13,10 +13,8 @@ While your data companions rushed off to jobs in finance and government, you rem
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
 ## Instructions
-
-Your tasks are to do the following:
-
-* Before beginning the analysis, check the data for duplicate mice and remove any data associated with that mouse ID.
+# What I did in this project:
+* check the data for duplicate mice and remove any data associated with that mouse ID.
 
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
@@ -32,7 +30,7 @@ Your tasks are to do the following:
 
 * Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
-  **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
+ All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
 * Generate a line plot of time point versus tumor volume for a single mouse treated with Capomulin.
 
@@ -44,13 +42,13 @@ Your tasks are to do the following:
 
 Here are some final considerations:
 
-* You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
+* Use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
 * See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
 
 ## Hints and Considerations
 
-* Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
+* These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
 
 * You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
 
